@@ -1,0 +1,29 @@
+# Witaj w TEXT READER
+
+To jest zwykły tekst.
+
+## Pierwszy rozdział
+
+Tutaj mamy **pogrubiony tekst**.
+
+A tutaj *kursywę* oraz ~~przekreślenie~~.
+
+### Lista rzeczy
+
+- Pierwszy punkt
+- Drugi punkt
+- Trzeci punkt
+
+## Drugi rozdział
+
+> To jest cytat.
+
+1. Pierwszy element
+2. Drugi element
+3. Trzeci element
+
+---
+
+# Koniec prezentacji
+
+Dziękuję za uwagę!
